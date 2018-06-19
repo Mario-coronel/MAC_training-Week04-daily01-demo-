@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "107193856321",
+    "firebase_url": "https://androidhive-volvagiad.firebaseio.com",
+    "project_id": "androidhive-volvagiad",
+    "storage_bucket": "androidhive-volvagiad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107193856321:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107193856321-87tfvhbtu97crilktc2vpei39nf0oo5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.firebase",
+            "certificate_hash": "6e62552677d2c887884a22401ff5b98a91e8137e"
+          }
+        },
+        {
+          "client_id": "107193856321-783a2siv1mubq1tb7g98q9ihvj0578gm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "107193856321-783a2siv1mubq1tb7g98q9ihvj0578gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8hf3g_uwgx06r_V9mkB1j8BH95r9cgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107193856321-783a2siv1mubq1tb7g98q9ihvj0578gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
